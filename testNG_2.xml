@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SortingAlgorithmsTest">
+    <test name="SortingAlgorithmsTest">
+        <groups>
+            <run>
+                <include name="null"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="org.example.SortingAlgorithmsTest"/>
+        </classes>
+    </test>
+</suite>
